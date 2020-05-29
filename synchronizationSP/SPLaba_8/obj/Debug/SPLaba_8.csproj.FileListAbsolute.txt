@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2017\Projects\SPLaba_8\SPLaba_8\bin\Debug\SPLaba_8.exe.config
+c:\users\student\documents\visual studio 2017\Projects\SPLaba_8\SPLaba_8\bin\Debug\SPLaba_8.exe
+c:\users\student\documents\visual studio 2017\Projects\SPLaba_8\SPLaba_8\bin\Debug\SPLaba_8.pdb
+c:\users\student\documents\visual studio 2017\Projects\SPLaba_8\SPLaba_8\obj\Debug\SPLaba_8.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\SPLaba_8\SPLaba_8\obj\Debug\SPLaba_8.Form1.resources
+c:\users\student\documents\visual studio 2017\Projects\SPLaba_8\SPLaba_8\obj\Debug\SPLaba_8.Properties.Resources.resources
+c:\users\student\documents\visual studio 2017\Projects\SPLaba_8\SPLaba_8\obj\Debug\SPLaba_8.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2017\Projects\SPLaba_8\SPLaba_8\obj\Debug\SPLaba_8.exe
+c:\users\student\documents\visual studio 2017\Projects\SPLaba_8\SPLaba_8\obj\Debug\SPLaba_8.pdb
